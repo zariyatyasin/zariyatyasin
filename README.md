@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**zariyatyasin/zariyatyasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Md Yasin**, a **Software Engineer** passionate about building scalable, high-performance applications. With expertise in **backend architecture, cloud computing, and full-stack development**, I enjoy solving complex problems and optimizing systems for efficiency.  
 
-Here are some ideas to get you started:
+### 🚀 What I Do  
+- 🔹 **Backend Development** – Node.js, Express.js, NestJS  
+- 🔹 **Frontend Engineering** – React.js, Next.js  
+- 🔹 **Database Management** – MongoDB, PostgreSQL  
+- 🔹 **Cloud & DevOps** – AWS, Docker, Kubernetes  
+- 🔹 **System Design & API Development**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Exploring  
+- 🧠 AI & Machine Learning  
+- 📈 Scalable microservices architecture  
+- 🔐 Cybersecurity & system optimization  
+
+### 💬 Let's Connect  
+- 📫 **Email:** [mdyasinbfc@gmail.com](mailto:mdyasinbfc@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/mohammed-yasin-825982220](https://www.linkedin.com/in/mohammed-yasin-825982220/)  
+
+⚡ **Fun Fact:** I turn coffee into clean, efficient code! ☕💻  
